@@ -1,0 +1,14 @@
+ul {
+    width: fit-content;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border-style: dotted;
+    border-color: green;
+    border: 20px;
+}
+li {
+    background-color: lightseagreen;
+    height: 1cm;
+    border: 3mm;
+    list-style: none;
+}
